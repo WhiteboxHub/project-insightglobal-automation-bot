@@ -1,0 +1,105 @@
+2025-11-21 14:38:45,715 - __main__ - INFO - JobBot initialized
+2025-11-21 14:38:45,715 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 14:38:46,650 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 14:38:46,978 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 14:38:47,305 - WDM - INFO - Driver [C:\Users\recru\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-21 14:38:48,392 - __main__ - INFO - WebDriver setup successful
+2025-11-21 14:38:48,402 - __main__ - INFO - Loaded 2 active candidates
+2025-11-21 14:38:48,406 - __main__ - INFO - 
+==================================================
+2025-11-21 14:38:48,407 - __main__ - INFO - Processing candidate 1/2
+2025-11-21 14:38:48,407 - __main__ - INFO - ==================================================
+
+2025-11-21 14:38:48,408 - __main__ - INFO - Processing candidate: guruteja233@gmail.com
+2025-11-21 14:39:10,417 - __main__ - INFO - Login successful for guruteja233@gmail.com
+2025-11-21 14:39:10,417 - __main__ - INFO - Using candidate preferred location: Los Angeles
+2025-11-21 14:39:10,417 - __main__ - INFO - Searching: AI Engineer in Los Angeles
+2025-11-21 14:39:15,366 - __main__ - INFO - Clearing default location and setting: Los Angeles
+2025-11-21 14:39:25,392 - __main__ - INFO - Search complete for keywords: AI Engineer, location: Los Angeles
+2025-11-21 14:39:25,410 - __main__ - INFO - Found 1 job listings in current search
+2025-11-21 14:39:27,409 - __main__ - INFO - Using fallback job ID: job_408362bf_0
+2025-11-21 14:39:27,410 - __main__ - INFO - Final Job ID: job_408362bf_0, Title: Front End Engineer
+2025-11-21 14:39:27,410 - __main__ - INFO - Skipping job job_408362bf_0 (Front End Engineer) - already applied
+2025-11-21 14:39:27,418 - __main__ - INFO - Processed all 1 jobs in this search
+2025-11-21 14:39:27,418 - __main__ - INFO - Applied to 0 jobs in this search for guruteja233@gmail.com
+2025-11-21 14:39:27,418 - __main__ - INFO - Searching: ML Engineer in Los Angeles
+2025-11-21 14:39:31,853 - __main__ - INFO - Clearing default location and setting: Los Angeles
+2025-11-21 14:39:41,476 - __main__ - INFO - Search complete for keywords: ML Engineer, location: Los Angeles
+2025-11-21 14:39:51,534 - __main__ - INFO - Found 0 job listings in current search
+2025-11-21 14:39:51,534 - __main__ - INFO - Processed all 0 jobs in this search
+2025-11-21 14:39:51,534 - __main__ - INFO - Applied to 0 jobs in this search for guruteja233@gmail.com
+2025-11-21 14:39:51,535 - __main__ - INFO - Searching:  in Los Angeles
+2025-11-21 14:39:56,768 - __main__ - INFO - Clearing default location and setting: Los Angeles
+2025-11-21 14:40:07,231 - __main__ - INFO - Search complete for keywords: , location: Los Angeles
+2025-11-21 14:40:07,247 - __main__ - INFO - Found 10 job listings in current search
+2025-11-21 14:40:09,663 - __main__ - INFO - Using fallback job ID: job_5772f4f3_0
+2025-11-21 14:40:09,663 - __main__ - INFO - Final Job ID: job_5772f4f3_0, Title: IT helpdesk / Desktop Support Technician
+2025-11-21 14:40:09,664 - __main__ - INFO - Skipping job job_5772f4f3_0 (IT helpdesk / Desktop Support Technician) - already applied
+2025-11-21 14:40:11,712 - __main__ - INFO - Using fallback job ID: job_b3740b05_1
+2025-11-21 14:40:11,713 - __main__ - INFO - Final Job ID: job_b3740b05_1, Title: Finance Technology Project Coordinator
+2025-11-21 14:40:11,713 - __main__ - INFO - Skipping job job_b3740b05_1 (Finance Technology Project Coordinator) - already applied
+2025-11-21 14:40:13,729 - __main__ - INFO - Using fallback job ID: job_684718f3_2
+2025-11-21 14:40:13,729 - __main__ - INFO - Final Job ID: job_684718f3_2, Title: Sr Creative/Marketing Account Manager (Style/Fashion Campaigns)
+2025-11-21 14:40:13,730 - __main__ - INFO - Skipping job job_684718f3_2 (Sr Creative/Marketing Account Manager (Style/Fashion Campaigns)) - already applied
+2025-11-21 14:40:15,511 - __main__ - INFO - Using fallback job ID: job_45f7c549_3
+2025-11-21 14:40:15,511 - __main__ - INFO - Final Job ID: job_45f7c549_3, Title: Project Manager
+2025-11-21 14:40:15,512 - __main__ - INFO - Skipping job job_45f7c549_3 (Project Manager) - already applied
+2025-11-21 14:40:18,017 - __main__ - INFO - Using fallback job ID: job_af9afdc6_4
+2025-11-21 14:40:18,017 - __main__ - INFO - Final Job ID: job_af9afdc6_4, Title: Account Executive
+2025-11-21 14:40:18,017 - __main__ - INFO - Skipping job job_af9afdc6_4 (Account Executive) - already applied
+2025-11-21 14:40:20,179 - __main__ - INFO - Using fallback job ID: job_7b214869_5
+2025-11-21 14:40:20,179 - __main__ - INFO - Final Job ID: job_7b214869_5, Title: Senior MBSE Engineer
+2025-11-21 14:40:20,180 - __main__ - INFO - Skipping job job_7b214869_5 (Senior MBSE Engineer) - already applied
+2025-11-21 14:40:22,249 - __main__ - INFO - Using fallback job ID: job_afed851d_6
+2025-11-21 14:40:22,250 - __main__ - INFO - Final Job ID: job_afed851d_6, Title: CNC Mill Machinest
+2025-11-21 14:40:22,250 - __main__ - INFO - Skipping job job_afed851d_6 (CNC Mill Machinest) - already applied
+2025-11-21 14:40:24,556 - __main__ - INFO - Using fallback job ID: job_c23e5099_7
+2025-11-21 14:40:24,556 - __main__ - INFO - Final Job ID: job_c23e5099_7, Title: Product Owner
+2025-11-21 14:40:24,557 - __main__ - INFO - Skipping job job_c23e5099_7 (Product Owner) - already applied
+2025-11-21 14:40:26,995 - __main__ - INFO - Using fallback job ID: job_cf811215_8
+2025-11-21 14:40:26,995 - __main__ - INFO - Final Job ID: job_cf811215_8, Title: Business Analyst
+2025-11-21 14:40:26,996 - __main__ - INFO - Skipping job job_cf811215_8 (Business Analyst) - already applied
+2025-11-21 14:40:29,287 - __main__ - INFO - Using fallback job ID: job_8e691e57_9
+2025-11-21 14:40:29,287 - __main__ - INFO - Final Job ID: job_8e691e57_9, Title: Business Systems Analyst
+2025-11-21 14:40:29,287 - __main__ - INFO - Skipping job job_8e691e57_9 (Business Systems Analyst) - already applied
+2025-11-21 14:40:29,297 - __main__ - INFO - Processed all 10 jobs in this search
+2025-11-21 14:40:29,297 - __main__ - INFO - Applied to 0 jobs in this search for guruteja233@gmail.com
+2025-11-21 14:40:29,298 - __main__ - INFO - Total applications for guruteja233@gmail.com: 0
+2025-11-21 14:40:39,332 - __main__ - INFO - Found logout link with: //a[contains(@href,'logout')]
+2025-11-21 14:40:45,276 - __main__ - INFO - Logged out successfully
+2025-11-21 14:40:45,276 - __main__ - INFO - Waiting 57.7 seconds before next candidate...
+2025-11-21 14:41:43,014 - __main__ - INFO - 
+==================================================
+2025-11-21 14:41:43,014 - __main__ - INFO - Processing candidate 2/2
+2025-11-21 14:41:43,015 - __main__ - INFO - ==================================================
+
+2025-11-21 14:41:43,015 - __main__ - INFO - Processing candidate: abhirohith516@gmail.com
+2025-11-21 14:41:57,624 - __main__ - INFO - Login successful for abhirohith516@gmail.com
+2025-11-21 14:41:57,624 - __main__ - INFO - Using candidate preferred location: New York
+2025-11-21 14:41:57,625 - __main__ - INFO - Searching: AI Engineer in New York
+2025-11-21 14:42:04,409 - __main__ - INFO - Clearing default location and setting: New York
+2025-11-21 14:42:13,469 - __main__ - INFO - Search complete for keywords: AI Engineer, location: New York
+2025-11-21 14:42:23,544 - __main__ - INFO - Found 0 job listings in current search
+2025-11-21 14:42:23,544 - __main__ - INFO - Processed all 0 jobs in this search
+2025-11-21 14:42:23,545 - __main__ - INFO - Applied to 0 jobs in this search for abhirohith516@gmail.com
+2025-11-21 14:42:23,545 - __main__ - INFO - Searching: ML Engineer in New York
+2025-11-21 14:42:28,278 - __main__ - INFO - Clearing default location and setting: New York
+2025-11-21 14:42:37,968 - __main__ - INFO - Search complete for keywords: ML Engineer, location: New York
+2025-11-21 14:42:48,036 - __main__ - INFO - Found 0 job listings in current search
+2025-11-21 14:42:48,037 - __main__ - INFO - Processed all 0 jobs in this search
+2025-11-21 14:42:48,037 - __main__ - INFO - Applied to 0 jobs in this search for abhirohith516@gmail.com
+2025-11-21 14:42:48,038 - __main__ - INFO - Searching:  in New York
+2025-11-21 14:42:52,653 - __main__ - INFO - Clearing default location and setting: New York
+2025-11-21 14:43:02,591 - __main__ - INFO - Search complete for keywords: , location: New York
+2025-11-21 14:43:02,604 - __main__ - INFO - Found 1 job listings in current search
+2025-11-21 14:43:04,835 - __main__ - INFO - Using fallback job ID: job_098f6bcd_0
+2025-11-21 14:43:04,835 - __main__ - INFO - Final Job ID: job_098f6bcd_0, Title: test
+2025-11-21 14:43:04,836 - __main__ - INFO - Skipping job job_098f6bcd_0 (test) - already applied
+2025-11-21 14:43:04,844 - __main__ - INFO - Processed all 1 jobs in this search
+2025-11-21 14:43:04,844 - __main__ - INFO - Applied to 0 jobs in this search for abhirohith516@gmail.com
+2025-11-21 14:43:04,844 - __main__ - INFO - Total applications for abhirohith516@gmail.com: 0
+2025-11-21 14:43:14,890 - __main__ - INFO - Found logout link with: //a[contains(@href,'logout')]
+2025-11-21 14:43:18,779 - __main__ - INFO - Logged out successfully
+2025-11-21 14:43:18,780 - __main__ - INFO - 
+All candidates processed successfully!
+2025-11-21 14:43:21,022 - __main__ - INFO - Browser closed

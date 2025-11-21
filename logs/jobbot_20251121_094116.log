@@ -1,0 +1,248 @@
+2025-11-21 09:41:16,868 - __main__ - INFO - JobBot initialized
+2025-11-21 09:41:16,869 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 09:41:17,786 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 09:41:18,135 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 09:41:18,439 - WDM - INFO - Driver [C:\Users\recru\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-21 09:41:19,582 - __main__ - INFO - WebDriver setup successful
+2025-11-21 09:41:19,599 - __main__ - INFO - Loaded 2 active candidates
+2025-11-21 09:41:19,603 - __main__ - INFO - 
+==================================================
+2025-11-21 09:41:19,603 - __main__ - INFO - Processing candidate 1/2
+2025-11-21 09:41:19,603 - __main__ - INFO - ==================================================
+
+2025-11-21 09:41:19,604 - __main__ - INFO - Processing candidate: guruteja233@gmail.com
+2025-11-21 09:41:38,431 - __main__ - INFO - Login successful for guruteja233@gmail.com
+2025-11-21 09:41:38,431 - __main__ - INFO - Using candidate preferred location: Los Angeles
+2025-11-21 09:41:38,431 - __main__ - INFO - Searching: AI Engineer in Los Angeles
+2025-11-21 09:41:43,420 - __main__ - INFO - Clearing default location and setting: Los Angeles
+2025-11-21 09:41:59,557 - __main__ - INFO - Search complete for keywords: AI Engineer, location: Los Angeles
+2025-11-21 09:41:59,574 - __main__ - INFO - Found 1 job listings in current search
+2025-11-21 09:42:01,908 - __main__ - INFO - Using fallback job ID: job_408362bf_0
+2025-11-21 09:42:01,909 - __main__ - INFO - Final Job ID: job_408362bf_0, Title: Front End Engineer
+2025-11-21 09:42:01,909 - __main__ - INFO - Processing new job: Front End Engineer
+2025-11-21 09:42:01,918 - __main__ - INFO - Clicked job using JavaScript
+2025-11-21 09:42:14,323 - __main__ - INFO - Found apply button with: //a[contains(text(), "Apply")]
+2025-11-21 09:42:16,540 - __main__ - INFO - Clicked apply button using JavaScript
+2025-11-21 09:42:19,488 - __main__ - INFO - Starting application form fill process
+2025-11-21 09:42:29,521 - __main__ - WARNING - Resume selection radio not found - may already be uploaded
+2025-11-21 09:42:39,580 - __main__ - WARNING - LinkedIn URL field not found
+2025-11-21 09:42:49,602 - __main__ - WARNING - Phone field not found
+2025-11-21 09:43:09,695 - __main__ - WARNING - Minimum requirements question not found
+2025-11-21 09:43:19,744 - __main__ - ERROR - "Apply Now" button not found
+2025-11-21 09:43:19,744 - __main__ - WARNING - Application form submission may have failed for: Front End Engineer
+2025-11-21 09:43:19,756 - __main__ - INFO - Saved application record: Front End Engineer
+2025-11-21 09:43:33,429 - __main__ - INFO - Processed all 0 jobs in this search
+2025-11-21 09:43:33,429 - __main__ - INFO - Applied to 0 jobs in this search for guruteja233@gmail.com
+2025-11-21 09:43:33,429 - __main__ - INFO - Searching: ML Engineer in Los Angeles
+2025-11-21 09:43:39,876 - __main__ - INFO - Clearing default location and setting: Los Angeles
+2025-11-21 09:43:55,193 - __main__ - INFO - Search complete for keywords: ML Engineer, location: Los Angeles
+2025-11-21 09:44:05,200 - __main__ - INFO - Found 0 job listings in current search
+2025-11-21 09:44:05,200 - __main__ - INFO - Processed all 0 jobs in this search
+2025-11-21 09:44:05,201 - __main__ - INFO - Applied to 0 jobs in this search for guruteja233@gmail.com
+2025-11-21 09:44:05,201 - __main__ - INFO - Searching:  in Los Angeles
+2025-11-21 09:44:10,703 - __main__ - INFO - Clearing default location and setting: Los Angeles
+2025-11-21 09:44:21,719 - __main__ - INFO - Search complete for keywords: , location: Los Angeles
+2025-11-21 09:44:21,736 - __main__ - INFO - Found 10 job listings in current search
+2025-11-21 09:44:24,323 - __main__ - INFO - Using fallback job ID: job_5772f4f3_0
+2025-11-21 09:44:24,323 - __main__ - INFO - Final Job ID: job_5772f4f3_0, Title: IT helpdesk / Desktop Support Technician
+2025-11-21 09:44:24,324 - __main__ - INFO - Processing new job: IT helpdesk / Desktop Support Technician
+2025-11-21 09:44:24,334 - __main__ - INFO - Clicked job using JavaScript
+2025-11-21 09:44:26,483 - __main__ - INFO - Found apply button with: //a[contains(@class, "quick-apply")]
+2025-11-21 09:44:32,566 - __main__ - INFO - Clicked apply button using JavaScript
+2025-11-21 09:44:36,882 - __main__ - INFO - Starting application form fill process
+2025-11-21 09:44:36,926 - __main__ - INFO - Selected resume radio button
+2025-11-21 09:44:37,793 - __main__ - INFO - Filled LinkedIn URL: https://www.linkedin.com/in/guruteja
+2025-11-21 09:44:38,702 - __main__ - INFO - Filled phone number: 1234567890
+2025-11-21 09:44:39,727 - __main__ - INFO - Selected "No" for minimum requirements
+2025-11-21 09:44:44,986 - __main__ - INFO - Clicked "Apply Now" button
+2025-11-21 09:44:51,643 - __main__ - INFO - Clicked "Back to Search Results"
+2025-11-21 09:44:53,047 - __main__ - INFO - Saved application record: IT helpdesk / Desktop Support Technician
+2025-11-21 09:44:53,047 - __main__ - INFO - Successfully applied to: IT helpdesk / Desktop Support Technician
+2025-11-21 09:44:57,386 - __main__ - INFO - Using fallback job ID: job_b3740b05_1
+2025-11-21 09:44:57,387 - __main__ - INFO - Final Job ID: job_b3740b05_1, Title: Finance Technology Project Coordinator
+2025-11-21 09:44:57,387 - __main__ - INFO - Processing new job: Finance Technology Project Coordinator
+2025-11-21 09:44:57,397 - __main__ - INFO - Clicked job using JavaScript
+2025-11-21 09:45:02,210 - __main__ - INFO - Found apply button with: //a[contains(@class, "quick-apply")]
+2025-11-21 09:45:06,230 - __main__ - INFO - Clicked apply button using JavaScript
+2025-11-21 09:45:08,636 - __main__ - INFO - Starting application form fill process
+2025-11-21 09:45:08,675 - __main__ - INFO - Selected resume radio button
+2025-11-21 09:45:09,447 - __main__ - INFO - Filled LinkedIn URL: https://www.linkedin.com/in/guruteja
+2025-11-21 09:45:10,214 - __main__ - INFO - Filled phone number: 1234567890
+2025-11-21 09:45:10,777 - __main__ - INFO - Selected "No" for minimum requirements
+2025-11-21 09:45:16,456 - __main__ - INFO - Clicked "Apply Now" button
+2025-11-21 09:45:21,929 - __main__ - INFO - Clicked "Back to Search Results"
+2025-11-21 09:45:23,241 - __main__ - INFO - Saved application record: Finance Technology Project Coordinator
+2025-11-21 09:45:23,242 - __main__ - INFO - Successfully applied to: Finance Technology Project Coordinator
+2025-11-21 09:45:28,534 - __main__ - INFO - Using fallback job ID: job_684718f3_2
+2025-11-21 09:45:28,534 - __main__ - INFO - Final Job ID: job_684718f3_2, Title: Sr Creative/Marketing Account Manager (Style/Fashion Campaigns)
+2025-11-21 09:45:28,534 - __main__ - INFO - Processing new job: Sr Creative/Marketing Account Manager (Style/Fashion Campaigns)
+2025-11-21 09:45:28,543 - __main__ - INFO - Clicked job using JavaScript
+2025-11-21 09:45:31,778 - __main__ - INFO - Found apply button with: //a[contains(@class, "quick-apply")]
+2025-11-21 09:45:35,364 - __main__ - INFO - Clicked apply button using JavaScript
+2025-11-21 09:45:38,581 - __main__ - INFO - Starting application form fill process
+2025-11-21 09:45:38,622 - __main__ - INFO - Selected resume radio button
+2025-11-21 09:45:39,374 - __main__ - INFO - Filled LinkedIn URL: https://www.linkedin.com/in/guruteja
+2025-11-21 09:45:40,134 - __main__ - INFO - Filled phone number: 1234567890
+2025-11-21 09:45:40,885 - __main__ - INFO - Selected "No" for minimum requirements
+2025-11-21 09:45:46,186 - __main__ - INFO - Clicked "Apply Now" button
+2025-11-21 09:45:50,847 - __main__ - INFO - Clicked "Back to Search Results"
+2025-11-21 09:45:52,314 - __main__ - INFO - Saved application record: Sr Creative/Marketing Account Manager (Style/Fashion Campaigns)
+2025-11-21 09:45:52,314 - __main__ - INFO - Successfully applied to: Sr Creative/Marketing Account Manager (Style/Fashion Campaigns)
+2025-11-21 09:45:56,602 - __main__ - INFO - Using fallback job ID: job_45f7c549_3
+2025-11-21 09:45:56,602 - __main__ - INFO - Final Job ID: job_45f7c549_3, Title: Project Manager
+2025-11-21 09:45:56,603 - __main__ - INFO - Processing new job: Project Manager
+2025-11-21 09:45:56,613 - __main__ - INFO - Clicked job using JavaScript
+2025-11-21 09:46:00,628 - __main__ - INFO - Found apply button with: //a[contains(@class, "quick-apply")]
+2025-11-21 09:46:04,553 - __main__ - INFO - Clicked apply button using JavaScript
+2025-11-21 09:46:09,046 - __main__ - INFO - Starting application form fill process
+2025-11-21 09:46:09,090 - __main__ - INFO - Selected resume radio button
+2025-11-21 09:46:10,072 - __main__ - INFO - Filled LinkedIn URL: https://www.linkedin.com/in/guruteja
+2025-11-21 09:46:10,761 - __main__ - INFO - Filled phone number: 1234567890
+2025-11-21 09:46:11,683 - __main__ - INFO - Selected "No" for minimum requirements
+2025-11-21 09:46:16,802 - __main__ - INFO - Clicked "Apply Now" button
+2025-11-21 09:46:21,489 - __main__ - INFO - Clicked "Back to Search Results"
+2025-11-21 09:46:23,040 - __main__ - INFO - Saved application record: Project Manager
+2025-11-21 09:46:23,040 - __main__ - INFO - Successfully applied to: Project Manager
+2025-11-21 09:46:30,566 - __main__ - INFO - Using fallback job ID: job_af9afdc6_4
+2025-11-21 09:46:30,566 - __main__ - INFO - Final Job ID: job_af9afdc6_4, Title: Account Executive
+2025-11-21 09:46:30,567 - __main__ - INFO - Processing new job: Account Executive
+2025-11-21 09:46:30,576 - __main__ - INFO - Clicked job using JavaScript
+2025-11-21 09:46:33,611 - __main__ - INFO - Found apply button with: //a[contains(@class, "quick-apply")]
+2025-11-21 09:46:37,458 - __main__ - INFO - Clicked apply button using JavaScript
+2025-11-21 09:46:41,691 - __main__ - INFO - Starting application form fill process
+2025-11-21 09:46:41,729 - __main__ - INFO - Selected resume radio button
+2025-11-21 09:46:42,627 - __main__ - INFO - Filled LinkedIn URL: https://www.linkedin.com/in/guruteja
+2025-11-21 09:46:43,463 - __main__ - INFO - Filled phone number: 1234567890
+2025-11-21 09:46:44,245 - __main__ - INFO - Selected "No" for minimum requirements
+2025-11-21 09:46:50,209 - __main__ - INFO - Clicked "Apply Now" button
+2025-11-21 09:46:55,454 - __main__ - INFO - Clicked "Back to Search Results"
+2025-11-21 09:46:56,764 - __main__ - INFO - Saved application record: Account Executive
+2025-11-21 09:46:56,764 - __main__ - INFO - Successfully applied to: Account Executive
+2025-11-21 09:47:04,351 - __main__ - INFO - Using fallback job ID: job_7b214869_5
+2025-11-21 09:47:04,351 - __main__ - INFO - Final Job ID: job_7b214869_5, Title: Senior MBSE Engineer
+2025-11-21 09:47:04,352 - __main__ - INFO - Processing new job: Senior MBSE Engineer
+2025-11-21 09:47:04,360 - __main__ - INFO - Clicked job using JavaScript
+2025-11-21 09:47:08,388 - __main__ - INFO - Found apply button with: //a[contains(@class, "quick-apply")]
+2025-11-21 09:47:13,185 - __main__ - INFO - Clicked apply button using JavaScript
+2025-11-21 09:47:17,092 - __main__ - INFO - Starting application form fill process
+2025-11-21 09:47:17,131 - __main__ - INFO - Selected resume radio button
+2025-11-21 09:47:18,002 - __main__ - INFO - Filled LinkedIn URL: https://www.linkedin.com/in/guruteja
+2025-11-21 09:47:18,983 - __main__ - INFO - Filled phone number: 1234567890
+2025-11-21 09:47:19,920 - __main__ - INFO - Selected "No" for minimum requirements
+2025-11-21 09:47:25,426 - __main__ - INFO - Clicked "Apply Now" button
+2025-11-21 09:47:31,760 - __main__ - INFO - Clicked "Back to Search Results"
+2025-11-21 09:47:33,470 - __main__ - INFO - Saved application record: Senior MBSE Engineer
+2025-11-21 09:47:33,470 - __main__ - INFO - Successfully applied to: Senior MBSE Engineer
+2025-11-21 09:47:38,789 - __main__ - INFO - Using fallback job ID: job_afed851d_6
+2025-11-21 09:47:38,789 - __main__ - INFO - Final Job ID: job_afed851d_6, Title: CNC Mill Machinest
+2025-11-21 09:47:38,790 - __main__ - INFO - Processing new job: CNC Mill Machinest
+2025-11-21 09:47:38,798 - __main__ - INFO - Clicked job using JavaScript
+2025-11-21 09:47:42,410 - __main__ - INFO - Found apply button with: //a[contains(@class, "quick-apply")]
+2025-11-21 09:47:46,927 - __main__ - INFO - Clicked apply button using JavaScript
+2025-11-21 09:47:48,933 - __main__ - INFO - Starting application form fill process
+2025-11-21 09:47:48,971 - __main__ - INFO - Selected resume radio button
+2025-11-21 09:47:49,834 - __main__ - INFO - Filled LinkedIn URL: https://www.linkedin.com/in/guruteja
+2025-11-21 09:47:50,684 - __main__ - INFO - Filled phone number: 1234567890
+2025-11-21 09:47:51,429 - __main__ - INFO - Selected "No" for minimum requirements
+2025-11-21 09:47:56,413 - __main__ - INFO - Clicked "Apply Now" button
+2025-11-21 09:48:01,639 - __main__ - INFO - Clicked "Back to Search Results"
+2025-11-21 09:48:03,212 - __main__ - INFO - Saved application record: CNC Mill Machinest
+2025-11-21 09:48:03,212 - __main__ - INFO - Successfully applied to: CNC Mill Machinest
+2025-11-21 09:48:10,144 - __main__ - INFO - Using fallback job ID: job_c23e5099_7
+2025-11-21 09:48:10,144 - __main__ - INFO - Final Job ID: job_c23e5099_7, Title: Product Owner
+2025-11-21 09:48:10,145 - __main__ - INFO - Processing new job: Product Owner
+2025-11-21 09:48:10,154 - __main__ - INFO - Clicked job using JavaScript
+2025-11-21 09:48:14,323 - __main__ - INFO - Found apply button with: //a[contains(@class, "quick-apply")]
+2025-11-21 09:48:18,117 - __main__ - INFO - Clicked apply button using JavaScript
+2025-11-21 09:48:22,077 - __main__ - INFO - Starting application form fill process
+2025-11-21 09:48:22,115 - __main__ - INFO - Selected resume radio button
+2025-11-21 09:48:22,852 - __main__ - INFO - Filled LinkedIn URL: https://www.linkedin.com/in/guruteja
+2025-11-21 09:48:23,480 - __main__ - INFO - Filled phone number: 1234567890
+2025-11-21 09:48:24,306 - __main__ - INFO - Selected "No" for minimum requirements
+2025-11-21 09:48:29,651 - __main__ - INFO - Clicked "Apply Now" button
+2025-11-21 09:48:34,267 - __main__ - INFO - Clicked "Back to Search Results"
+2025-11-21 09:48:35,614 - __main__ - INFO - Saved application record: Product Owner
+2025-11-21 09:48:35,614 - __main__ - INFO - Successfully applied to: Product Owner
+2025-11-21 09:48:42,604 - __main__ - INFO - Using fallback job ID: job_cf811215_8
+2025-11-21 09:48:42,604 - __main__ - INFO - Final Job ID: job_cf811215_8, Title: Business Analyst
+2025-11-21 09:48:42,604 - __main__ - INFO - Processing new job: Business Analyst
+2025-11-21 09:48:42,611 - __main__ - INFO - Clicked job using JavaScript
+2025-11-21 09:48:45,962 - __main__ - INFO - Found apply button with: //a[contains(@class, "quick-apply")]
+2025-11-21 09:48:49,926 - __main__ - INFO - Clicked apply button using JavaScript
+2025-11-21 09:48:52,749 - __main__ - INFO - Starting application form fill process
+2025-11-21 09:48:52,788 - __main__ - INFO - Selected resume radio button
+2025-11-21 09:48:53,765 - __main__ - INFO - Filled LinkedIn URL: https://www.linkedin.com/in/guruteja
+2025-11-21 09:48:54,528 - __main__ - INFO - Filled phone number: 1234567890
+2025-11-21 09:48:55,478 - __main__ - INFO - Selected "No" for minimum requirements
+2025-11-21 09:49:00,897 - __main__ - INFO - Clicked "Apply Now" button
+2025-11-21 09:49:06,598 - __main__ - INFO - Clicked "Back to Search Results"
+2025-11-21 09:49:07,762 - __main__ - INFO - Saved application record: Business Analyst
+2025-11-21 09:49:07,762 - __main__ - INFO - Successfully applied to: Business Analyst
+2025-11-21 09:49:12,444 - __main__ - INFO - Using fallback job ID: job_8e691e57_9
+2025-11-21 09:49:12,445 - __main__ - INFO - Final Job ID: job_8e691e57_9, Title: Business Systems Analyst
+2025-11-21 09:49:12,445 - __main__ - INFO - Processing new job: Business Systems Analyst
+2025-11-21 09:49:12,454 - __main__ - INFO - Clicked job using JavaScript
+2025-11-21 09:49:14,995 - __main__ - INFO - Found apply button with: //a[contains(@class, "quick-apply")]
+2025-11-21 09:49:19,121 - __main__ - INFO - Clicked apply button using JavaScript
+2025-11-21 09:49:22,309 - __main__ - INFO - Starting application form fill process
+2025-11-21 09:49:22,347 - __main__ - INFO - Selected resume radio button
+2025-11-21 09:49:23,221 - __main__ - INFO - Filled LinkedIn URL: https://www.linkedin.com/in/guruteja
+2025-11-21 09:49:24,227 - __main__ - INFO - Filled phone number: 1234567890
+2025-11-21 09:49:25,056 - __main__ - INFO - Selected "No" for minimum requirements
+2025-11-21 09:49:30,526 - __main__ - INFO - Clicked "Apply Now" button
+2025-11-21 09:49:35,756 - __main__ - INFO - Clicked "Back to Search Results"
+2025-11-21 09:49:36,951 - __main__ - INFO - Saved application record: Business Systems Analyst
+2025-11-21 09:49:36,952 - __main__ - INFO - Successfully applied to: Business Systems Analyst
+2025-11-21 09:49:40,481 - __main__ - INFO - Processed all 10 jobs in this search
+2025-11-21 09:49:40,482 - __main__ - INFO - Applied to 10 jobs in this search for guruteja233@gmail.com
+2025-11-21 09:49:40,482 - __main__ - INFO - Total applications for guruteja233@gmail.com: 10
+2025-11-21 09:49:50,512 - __main__ - INFO - Found logout link with: //a[contains(@href,'logout')]
+2025-11-21 09:49:56,378 - __main__ - INFO - Logged out successfully
+2025-11-21 09:49:56,379 - __main__ - INFO - Waiting 59.6 seconds before next candidate...
+2025-11-21 09:50:56,018 - __main__ - INFO - 
+==================================================
+2025-11-21 09:50:56,019 - __main__ - INFO - Processing candidate 2/2
+2025-11-21 09:50:56,020 - __main__ - INFO - ==================================================
+
+2025-11-21 09:50:56,020 - __main__ - INFO - Processing candidate: abhirohith516@gmail.com
+2025-11-21 09:51:13,750 - __main__ - INFO - Login successful for abhirohith516@gmail.com
+2025-11-21 09:51:13,751 - __main__ - INFO - Using candidate preferred location: New York
+2025-11-21 09:51:13,751 - __main__ - INFO - Searching: AI Engineer in New York
+2025-11-21 09:51:18,137 - __main__ - INFO - Clearing default location and setting: New York
+2025-11-21 09:51:30,332 - __main__ - INFO - Search complete for keywords: AI Engineer, location: New York
+2025-11-21 09:51:40,370 - __main__ - INFO - Found 0 job listings in current search
+2025-11-21 09:51:40,370 - __main__ - INFO - Processed all 0 jobs in this search
+2025-11-21 09:51:40,371 - __main__ - INFO - Applied to 0 jobs in this search for abhirohith516@gmail.com
+2025-11-21 09:51:40,371 - __main__ - INFO - Searching: ML Engineer in New York
+2025-11-21 09:51:45,040 - __main__ - INFO - Clearing default location and setting: New York
+2025-11-21 09:51:54,118 - __main__ - INFO - Search complete for keywords: ML Engineer, location: New York
+2025-11-21 09:52:04,168 - __main__ - INFO - Found 0 job listings in current search
+2025-11-21 09:52:04,168 - __main__ - INFO - Processed all 0 jobs in this search
+2025-11-21 09:52:04,168 - __main__ - INFO - Applied to 0 jobs in this search for abhirohith516@gmail.com
+2025-11-21 09:52:04,169 - __main__ - INFO - Searching:  in New York
+2025-11-21 09:52:10,190 - __main__ - INFO - Clearing default location and setting: New York
+2025-11-21 09:52:20,459 - __main__ - INFO - Search complete for keywords: , location: New York
+2025-11-21 09:52:20,473 - __main__ - INFO - Found 1 job listings in current search
+2025-11-21 09:52:22,591 - __main__ - INFO - Using fallback job ID: job_098f6bcd_0
+2025-11-21 09:52:22,592 - __main__ - INFO - Final Job ID: job_098f6bcd_0, Title: test
+2025-11-21 09:52:22,592 - __main__ - INFO - Processing new job: test
+2025-11-21 09:52:22,603 - __main__ - INFO - Clicked job using JavaScript
+2025-11-21 09:52:27,089 - __main__ - INFO - Found apply button with: //a[contains(@class, "quick-apply")]
+2025-11-21 09:52:30,572 - __main__ - INFO - Clicked apply button using JavaScript
+2025-11-21 09:52:34,476 - __main__ - INFO - Starting application form fill process
+2025-11-21 09:52:44,526 - __main__ - WARNING - Resume selection radio not found - may already be uploaded
+2025-11-21 09:52:54,570 - __main__ - WARNING - LinkedIn URL field not found
+2025-11-21 09:53:04,639 - __main__ - WARNING - Phone field not found
+2025-11-21 09:53:17,179 - __main__ - INFO - Selected "No" for minimum requirements
+2025-11-21 09:53:22,704 - __main__ - INFO - Clicked "Apply Now" button
+2025-11-21 09:53:30,139 - __main__ - INFO - Clicked "Back to Search Results"
+2025-11-21 09:53:31,800 - __main__ - INFO - Saved application record: test
+2025-11-21 09:53:31,800 - __main__ - INFO - Successfully applied to: test
+2025-11-21 09:53:34,072 - __main__ - INFO - Processed all 1 jobs in this search
+2025-11-21 09:53:34,072 - __main__ - INFO - Applied to 1 jobs in this search for abhirohith516@gmail.com
+2025-11-21 09:53:34,072 - __main__ - INFO - Total applications for abhirohith516@gmail.com: 1
+2025-11-21 09:53:44,092 - __main__ - INFO - Found logout link with: //a[contains(@href,'logout')]
+2025-11-21 09:53:49,601 - __main__ - INFO - Logged out successfully
+2025-11-21 09:53:49,601 - __main__ - INFO - 
+All candidates processed successfully!
+2025-11-21 09:53:51,997 - __main__ - INFO - Browser closed
