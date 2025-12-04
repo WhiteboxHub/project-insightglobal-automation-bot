@@ -82,7 +82,6 @@ jobbot_project/
 ```ini
 [search]
 keywords = Software Engineer, Python Developer
-location = Remote, New York
 max_applications_per_candidate = 50
 
 [bot]
