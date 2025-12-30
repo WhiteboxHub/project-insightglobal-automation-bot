@@ -21,6 +21,7 @@ __pycache__/
 *.so
 .Python
 env/
+.env
 myenv/
 venv/
 ENV/

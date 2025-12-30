@@ -1,8 +1,70 @@
 
 import csv
 import json
+import logging
+import threading
 from pathlib import Path
 from datetime import datetime
+
+
+class CSVLogger(logging.Handler):
+    """Custom logging handler that writes log records to a CSV file."""
+
+    def __init__(self, csv_file_path, mode='a'):
+        super().__init__()
+        self.csv_file_path = Path(csv_file_path)
+        self.mode = mode
+        self._lock = threading.Lock()
+        self._initialized = False
+
+        # Ensure the directory exists
+        self.csv_file_path.parent.mkdir(parents=True, exist_ok=True)
+
+    def _initialize_csv(self):
+        """Initialize CSV file with headers if it doesn't exist or is empty."""
+        if not self.csv_file_path.exists() or self.csv_file_path.stat().st_size == 0:
+            with open(self.csv_file_path, 'w', newline='', encoding='utf-8') as f:
+                writer = csv.writer(f)
+                writer.writerow(['timestamp', 'level', 'logger', 'message', 'candidate_email'])
+        self._initialized = True
+
+    def emit(self, record):
+        """Emit a log record to the CSV file."""
+        if not self._initialized:
+            self._initialize_csv()
+
+        try:
+            with self._lock:
+                with open(self.csv_file_path, self.mode, newline='', encoding='utf-8') as f:
+                    writer = csv.writer(f)
+
+                    # Get candidate email from logger extra data if available
+                    candidate_email = getattr(record, 'candidate_email', '')
+
+                    # Format the log record
+                    timestamp = datetime.fromtimestamp(record.created).strftime('%Y-%m-%d %H:%M:%S')
+                    level = record.levelname
+                    logger = record.name
+                    message = record.getMessage()
+
+                    writer.writerow([timestamp, level, logger, message, candidate_email])
+
+        except Exception as e:
+            # Fallback to stderr if CSV logging fails
+            import sys
+            print(f"CSV logging failed: {e}", file=sys.stderr)
+
+
+def setup_csv_logging(csv_file_path='logs/jobbot_logs.csv', level=logging.INFO):
+    """Set up CSV logging handler."""
+    csv_handler = CSVLogger(csv_file_path)
+    csv_handler.setLevel(level)
+
+    # Create a formatter (though we don't use it for CSV)
+    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    csv_handler.setFormatter(formatter)
+
+    return csv_handler
 
 
 def create_candidates_template(output_path='data/candidates_template.csv'):
@@ -48,5 +110,3 @@ def generate_report(applied_jobs_csv='data/applied_jobs.csv', output_path='logs/
 if __name__ == '__main__':
     # Create template when run directly
     create_candidates_template()
-
-
