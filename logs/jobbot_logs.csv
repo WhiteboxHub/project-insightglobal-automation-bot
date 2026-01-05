@@ -2196,3 +2196,8 @@ All candidates processed successfully!",
 2026-01-06 03:01:26,INFO,__main__,"
 All candidates processed successfully!",
 2026-01-06 03:01:29,INFO,__main__,Browser closed,
+2026-01-06 03:10:31,INFO,__main__,Bot initialized,
+2026-01-06 03:10:31,INFO,WDM,====== WebDriver manager ======,
+2026-01-06 03:10:33,INFO,WDM,Get LATEST chromedriver version for google-chrome,
+2026-01-06 03:10:33,INFO,WDM,Get LATEST chromedriver version for google-chrome,
+2026-01-06 03:10:34,WARNING,__main__,Process interrupted by user,
