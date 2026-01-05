@@ -2,10 +2,10 @@
 
 data/*.csv
 logs/*.log
+logs/*.csv
 resumes/*.pdf
 resumes/*.doc*
 __pycache__/
 *.py[cod]
 venv/
 .env
-jobbot_logs.csv
